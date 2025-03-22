@@ -1,0 +1,4 @@
+{
+    "ignore": ["v1_names_trie.json","v2_names_trie.json","v3_names_trie.json"]
+   
+}  
