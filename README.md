@@ -1,15 +1,18 @@
-**Knowledge i gained by exploring the api -:
+**Knowledge I gained by exploring the API -:
 From v1-:
->it returns maximum 10 results for any query string at a time.
->it only contains word comprising of lowercase alphabet.
+> It returns a maximum of 10 results for any query string at a time.
+
+> It only contains words comprising lowercase letters.
 
 From v2-:
->it returns maximum 12 results for any query string at a time.
->it contains word comprising of lowercase alphabet and numbers also.
+> It returns a maximum of 12 results for any query string at a time.
+
+> It contains words comprising lowercase letters and numbers.
 
 From v3-:
->it returns maximum 15 results for any query string at a time.
->it contains word comprising of lowercase alphabet,numbers and special characters.
+> It returns a maximum of 15 results for any query string at a time.
+
+> It contains words comprising lowercase letters, numbers, and special characters.
 
 **Tools used
 >used node js for writing scripts
