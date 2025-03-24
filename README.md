@@ -16,19 +16,19 @@ From v3-:
 >used axios for data fetching
 
 **Results for v1
-Total unique names found (from trie): 959
-Successful API requests: 100
-Failed API requests: 2475
-Total API requests made: 2575
+>Total unique names found (from trie): 959
+>Successful API requests: 100
+>Failed API requests: 2475
+>Total API requests made: 2575
 
 **Results for v2
-Total unique names found (from trie): 520
-Successful API requests: 50
-Failed API requests: 1283
-Total API requests made: 1333
+>Total unique names found (from trie): 520
+>Successful API requests: 50
+>Failed API requests: 1283
+>Total API requests made: 1333
 
 **Results for v3
-Total unique names found (from trie): 610
-Successful API requests: 80
-Failed API requests: 2326
-Total API requests made: 2406
+>Total unique names found (from trie): 610
+>Successful API requests: 80
+>Failed API requests: 2326
+>Total API requests made: 2406
